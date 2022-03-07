@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 修改
 Git is a free software ...
+Git is a free software ...改好bug
